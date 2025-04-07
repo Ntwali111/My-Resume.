@@ -1,6 +1,6 @@
 # Ntwali Portfolio
 
-This is the portfolio of Cynthia Ntwali, a passionate Software Engineer dedicated to creating innovative solutions. 
+This is my portfolio,I'm a passionate Software Engineer dedicated to creating innovative solutions. 
 
 ## Features
 - About Me section
